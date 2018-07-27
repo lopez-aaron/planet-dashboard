@@ -1,0 +1,27 @@
+{
+  "name": "planet-dashboard",
+  "version": "0.0.1",
+  "description": "A dashboard for planets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopez-aaron/planet-dashboard.git"
+  },
+  "author": "Aaron Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopez-aaron/planet-dashboard/issues"
+  },
+  "homepage": "https://github.com/lopez-aaron/planet-dashboard#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-form": "^7.4.2",
+    "webpack": "^4.16.3"
+  }
+}
